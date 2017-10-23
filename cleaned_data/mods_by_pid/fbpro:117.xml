@@ -46,5 +46,6 @@
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
-   </recordInfo>
+   </recordInfo> 
+   <note displayLabel="Tags">1914</note>
 </mods>
